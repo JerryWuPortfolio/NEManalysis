@@ -10,7 +10,7 @@ This project investigates the driving forces behind these price blowouts in the 
 
 Based on the data extraction and visualization, here are the detailed insights answering our core business questions:
 
-### 1. The "Evening Peak" is the Most Hazardous Time for Price Spikes
+### 1. The "Evening Peak" is the Most Significant Time for Price Spikes
 
 Question: Which specific months and times of day experience the highest frequency of extreme wholesale price spikes (>$300/MWh)?
 
