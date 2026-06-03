@@ -10,31 +10,31 @@ This project investigates the driving forces behind these price blowouts in the 
 
 Based on the data extraction and visualization, here are the detailed insights answering our core business questions:
 
-1. The "Evening Peak" is the Most Hazardous Time for Price Spikes
+### 1. The "Evening Peak" is the Most Hazardous Time for Price Spikes
 
 Question: Which specific months and times of day experience the highest frequency of extreme wholesale price spikes (>$300/MWh)?
 
 Insight: A severe concentration of price spikes occurs between 5:00 PM and 7:30 PM (17:00 - 19:30) across the mainland states, particularly in Queensland and New South Wales. This specific window represents the critical "solar ramp-down" period. As residential workers return home and switch on air conditioning units, demand surges exactly as rooftop and grid-scale solar generation drops to zero. This forces the market to rely on expensive fast-start gas peaker plants and hydro, driving the wholesale price exponentially higher.
 
-2. The 35°C Tipping Point in South Australia and Victoria
+### 2. The 35°C Tipping Point in South Australia and Victoria
 
 Question: How strongly do extreme temperature days (heatwaves >35°C) correlate with Regional Reference Price (RRP) blowouts in South Australia versus Victoria?
 
 Insight: There is an aggressive, non-linear correlation between extreme heat and price blowouts. On days where the maximum temperature remains below 30°C, the maximum daily RRP stays highly stable. However, once the 35°C threshold is crossed, prices exhibit extreme upward volatility, frequently blowing out past $1,000/MWh. South Australia shows a slightly higher sensitivity to these heatwaves compared to Victoria, likely due to its heavy reliance on wind generation, which often drops during stagnant, high-pressure heatwave conditions.
 
-3. South Australia Dominates Negative Pricing During Solar Hours
+### 3. South Australia Dominates Negative Pricing During Solar Hours
 
 Question: What is the frequency of negative pricing intervals during peak solar hours (10:00 AM - 2:00 PM), and which state is most affected?
 
 Insight: South Australia is by far the most heavily impacted by negative pricing, followed by Victoria. Between 10:00 AM and 2:00 PM, South Australia's massive penetration of rooftop solar frequently generates more electricity than the state's entire operational demand. Because traditional base-load generators cannot easily switch off for just a few hours, they must pay the market to take their excess power, resulting in consistent negative wholesale prices mid-day.
 
-4. Weekdays Exhibit Significantly Higher Pricing Instability
+### 4. Weekdays Exhibit Significantly Higher Pricing Instability
 
 Question: How does the variance in operational demand between weekends (lower industrial use) and weekdays affect pricing stability?
 
 Insight: By measuring the standard deviation of wholesale prices, the data proves that weekdays are significantly more volatile than weekends. On weekends, the absence of heavy industrial and commercial load flattens the overall demand curve, leading to highly stable, predictable pricing. Conversely, weekdays suffer from the synchronized alignment of commercial operations and residential peaks, leading to rapid demand swings and a much higher financial risk for energy retailers.
 
-5. Massive State Disparities During Top 10% Peak Demand
+### 5. Massive State Disparities During Top 10% Peak Demand
 
 Question: During top 10% peak demand intervals, what is the average price differential between states?
 
