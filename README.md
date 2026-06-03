@@ -1,12 +1,12 @@
-## ⚡ NEM Wholesale Price Volatility & Extreme Weather Analysis
+# ⚡ NEM Wholesale Price Volatility & Extreme Weather Analysis
 
-# 📖 Project Overview
+## 📖 Project Overview
 
 Energy retailers are exposed to massive financial risks when wholesale electricity prices spike from an average of $50/MWh up to the market cap of $16,600/MWh during extreme grid stress.
 
 This project investigates the driving forces behind these price blowouts in the Australian National Electricity Market (NEM) during the high-summer period (Jan-Feb 2023). By combining live, 5-minute interval data from the Australian Energy Market Operator (AEMO) with historical weather data, this analysis uncovers critical correlations between extreme heat, solar generation, and wholesale price volatility.
 
-# 📊 Key Insights & Findings
+## 📊 Key Insights & Findings
 
 Based on the data extraction and visualization, here are the detailed insights answering our core business questions:
 
@@ -40,7 +40,7 @@ Question: During top 10% peak demand intervals, what is the average price differ
 
 Insight: Filtering for the 90th percentile of operational demand reveals stark contrasts in how different states handle extreme grid stress. Queensland and South Australia exhibit the highest average prices during their respective peak demand intervals, reflecting their reliance on expensive peaking generation when the grid is stretched. In contrast, Tasmania maintains the lowest average price during its top 10% demand periods, insulated by its deep, highly dispatchable hydro-electric storage which can easily ramp up to meet peak needs without triggering massive price blowouts.
 
-# 🛠️ Data Sources & Technologies
+## 🛠️ Data Sources & Technologies
 
 AEMO Data: 5-minute DISPATCHPRICE and DISPATCHREGIONSUM tables dynamically extracted using the nemosis Python library.
 
