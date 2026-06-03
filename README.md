@@ -1,5 +1,7 @@
 # ⚡ Australian Energy Market (NEM) Data Analytics Portfolio
 
+Project 1 is in the notebook NEM Volatility Analysis,ipynb, Project 2 is in the notebook NEM Duck Curve Analysis.ipynb.
+
 ## 📖 Background: The Australian Energy Transition
 
 The Australian National Electricity Market (NEM) is currently undergoing one of the fastest and most complex renewable energy transitions in the world. As traditional coal-fired baseload generation is phased out and residential rooftop solar adoption reaches record highs, grid operators (like AEMO) and energy retailers are facing unprecedented engineering and economic challenges.
